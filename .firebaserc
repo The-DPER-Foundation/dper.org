@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "the-dper-foundation": {
+      "hosting": {
+        "dper": [
+          "the-dper-foundation"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "the-dper-foundation"
+  }
+}
